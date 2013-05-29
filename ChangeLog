@@ -1,0 +1,23 @@
+24/04/2013
+Dodanie komentarzy w kodzie i modułu python-irc w najnowszej wersji.
+
+25/04/2013
+Z uwagi na powrót PyPI do żywych zrezygnowałem z opcji "wszystkie moduły razem z botem. Implemntacja funkcji która wysyła twitterowe notki z wykorzystaniem Python Twitter Tools (https://github.com/sixohsix/twitter) (Na razie brak możliwości przekazywania botowy tekstu twitta).
+
+26/04/2013
+Przepiszanie systemu komend tak aby można było dodawać argument np. "!socialmsg Tekst notki". W pełni zaimplementowany mechanizm dodawania notek twitterowych.
+
+27/04/2013
+Dodane funkcji kontroli dostępu do komend.
+
+16/05/2013
+Zaimplementowano wysyłanie tweeta na kanały tcxpl przez odpowiednie osoby. Funkcja zostawiania notek.
+
+17/05/2013
+Bot podaje teraz tytuły stron www których url zostały podane na kanale.
+
+21/05/2013
+Ulopszona obsługa koment bota.
+
+29/05/2013
+Poprawa kodu zgodnie z pep8. Zmiana repo projektu na github.

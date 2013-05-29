@@ -1,0 +1,15 @@
+Core:
+
+15:11 <@sirmacik> chcę żeby bot wykonywał następujące czynności:
+15:11 <@sirmacik> śledzenie repozytoriów z kodem (bota i portalu)
+15:12 <@sirmacik> umieszczanie informacji na kanale jeśli ktoś doda tekst do agencji prasowej przez portal
+15:12 <@sirmacik> umieszczanie informacji na kanale jeśli ktoś niezarejestrowany zaproponuje nam newsa do agencji przez portal
+15:12 <@sirmacik> publikowanie informacji na portalu, jeśli są podane w odpowiednim formacie i przez odpowiednie osoby na kanale
+15:13 <@sirmacik> puszczenie tweeta/denta na kanały tcxpl przez odpowiednie osoby [DONE]
+15:13 <@sirmacik> tweetowanie i dentowanie na kanały APtcxpl przez odpowiednie osoby (mniejsze grono)
+
+Opcjonalne:
+15:15 <@sirmacik> fajne będzie jeszcze zostawianie notatek dla użytkowników których nie ma na kanale [DONE]
+15:16 <@sirmacik> ,notatka _2M1R_ hejka
+15:16 <@sirmacik> która zostanie zapodana użytkownikowi _2M1R_ gdy ten odezwie się na kanale
+

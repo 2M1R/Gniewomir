@@ -1,0 +1,15 @@
+Wymagane moduły:
+Python Twitter Tools (https://crate.io/packages/twitter/)
+Internet Relay Chat (IRC) protocol client library (https://crate.io/packages/irc/)
+PyQuery (https://crate.io/packages/pyquery/)
+
+Podstawowe komendy:
+"!ver": Wersja bota
+"!kill": Rozłącza bota i kończy skrypt
+"!publikuj": Wysyła statusy na serwisy społeczńościowe (narazie tylko twitter)
+"!notka <nick> <tekst>": Zostawia notke dla danego nicka
+"!sprawdznotki": Sprawdza czy są dla nas notki i wypisuje ję jako notice
+
+Przykład:
+[17:01:03] <_2M1R_> !publikuj test odpowiedzi
+[17:01:04] [Gniewomir] Twitt o treści 'test odpowiedzi' został opublikowany
