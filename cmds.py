@@ -28,7 +28,7 @@ def do_cmd(c, e, channel):
                                                                         
                         
 def show_version(c, channel):
-    ver = "0.5.2"
+    ver = "0.5.3"
     c.privmsg(channel, "Aktualna wersja Gniewomira to: " + ver)
 
 def kill(c, nick):    
